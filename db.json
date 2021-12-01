@@ -1,0 +1,112 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Swift",
+      "type": "SUV",
+      "year": 2021,
+      "price": 5,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Dzire-2020/7664/1584705998420/front-left-side-47.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Swift",
+      "type": "Hatchback",
+      "year": 2020,
+      "price": 7,
+      "img": "https://www.indusmotor.com/public/uploads/Model/417220210526171535.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Swift",
+      "type": "SUV",
+      "year": 2021,
+      "price": 10,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Dzire-2020/7664/1584705998420/front-left-side-47.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Swift",
+      "type": "Hatchback",
+      "year": 2020,
+      "price": 12,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Dzire-2020/7664/1584705998420/front-left-side-47.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Swift",
+      "type": "SUV",
+      "year": 2021,
+      "price": 20,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimEjdpCtOpL8weFnsEdZ32BStR3bclNh3tg&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Swift",
+      "type": "Hatchback",
+      "year": 2021,
+      "price": 2,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Swift-Dzire-Tour/8201/1606283248075/front-left-side-47.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Swift",
+      "type": "SUV",
+      "year": 2021,
+      "price": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimEjdpCtOpL8weFnsEdZ32BStR3bclNh3tg&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "name": "Swift",
+      "type": "Hatchback",
+      "year": 2020,
+      "price": 2,
+      "img": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Dzire-2020/7664/1584705998420/front-left-side-47.jpg"
+    }
+  ],
+  "orders": [
+    {
+      "name": "dfg",
+      "mobileNumber": "dfg",
+      "carId": 1,
+      "id": 2
+    },
+    {
+      "name": "fb",
+      "mobileNumber": "8999002282",
+      "carId": 1,
+      "id": 3
+    },
+    {
+      "name": "dfg",
+      "mobileNumber": "dfg",
+      "carId": 1,
+      "id": 4
+    },
+    {
+      "name": "sdf",
+      "mobileNumber": "sdf",
+      "carId": 1,
+      "id": 5
+    },
+    {
+      "name": "dfg",
+      "mobileNumber": "dfg",
+      "carId": 1,
+      "id": 6
+    },
+    {
+      "name": "test",
+      "mobileNumber": "78739897",
+      "carId": 6,
+      "id": 7
+    },
+    {
+      "name": "ktest",
+      "mobileNumber": "526585390",
+      "carId": 1,
+      "id": 8
+    }
+  ]
+}
